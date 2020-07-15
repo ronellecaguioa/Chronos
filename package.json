@@ -1,8 +1,8 @@
 {
   "package name": "chronos",
-  "name": "chronos-microservice-debugger5",
-  "version": "4.0.3",
-  "description": "Microservice communication and health visualizer.",
+  "name": "chronos-tracker",
+  "version": "4.0.4",
+  "description": "A developer tool that monitors the health and web traffic of servers, microservices, and containers.",
   "main": "chronos.js",
   "scripts": {
     "test": "jest",
